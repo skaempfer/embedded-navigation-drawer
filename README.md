@@ -4,11 +4,11 @@ Example for a responsive drawer navigation that can be used on all page levels. 
 
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
-For more information, go to https://aurelia.io/docs/cli/webpack
+## Run the app
 
-## Run dev app
+1. Run `npm ci` to install all required npm dependencies
 
-Run `au run`, then open `http://localhost:8080`
+2. Run `au run`, then open `http://localhost:8080`
 
 To open browser automatically, do `au run --open`.
 
@@ -17,7 +17,3 @@ To change dev server port, do `au run --port 8888`.
 To enable Webpack Bundle Analyzer, do `au run --analyze`.
 
 To enable hot module reload, do `au run --hmr`.
-
-## Build for production
-
-Run `au build --env prod`.
