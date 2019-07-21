@@ -1,4 +1,6 @@
-# `push-menu`
+# `responsive-navigation-drawer`
+
+Example for an responsive drawer navigation that can be used an all page levels. In desktop mode the drawer pushes the main content the the side. In mobile mode the drawer is an overlay over the main content.
 
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
