@@ -2,6 +2,15 @@
 
 Example for a embedded responsive drawer navigation that can be used an all page levels. In desktop mode the drawer pushes the main content the the side. In mobile mode the drawer is an overlay over the main content.
 
+The following picture shows the behaviour of the drawer in desktop mode:
+
+![Embedded drawer in desktop mode](doc/open-close-desktop.gif)
+
+And this picture shows the behaviour in mobile mode:
+
+![Embedded drawer in mobile mode](doc/open-close-mobile.gif)
+
+
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
 ## Run the app
